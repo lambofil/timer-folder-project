@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to right,#ffa384, #74bdcb);
+}
+
+.digitalClock{
+    color: white;
+    font-size: 80px;
+    top: 40%;
+    left: 30%;
+    position: absolute;
+    border: 1px solid white;
+    padding: 10px; 
+}
